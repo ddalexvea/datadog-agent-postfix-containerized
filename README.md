@@ -206,6 +206,10 @@ Expected output:
   postfix.queue.size  gauge  0      queue:hold, ...
 ```
 
+### Expected Result in Datadog UI
+
+![Datadog UI Result](datadog-ui-result.png)
+
 ---
 
 ## Metrics Collected
